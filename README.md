@@ -27,3 +27,9 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Deploy to GitHub Pages
+
+The GitHub Actions workflow builds and deploys the app whenever changes are
+pushed to `main`. After the first successful deployment, the demo is available
+at <https://warrior1744.github.io/ojt-system/>.
